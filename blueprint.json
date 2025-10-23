@@ -1,6 +1,5 @@
 {
   "plugins": 
             [ "forminator" ],
-  "landingPage": "/wp-admin/admin.php?page=forminator",
-  "corsProxy":"https://testformi.tempurl.host/proxy.php"
+  "landingPage": "/wp-admin/admin.php?page=forminator"
 }
